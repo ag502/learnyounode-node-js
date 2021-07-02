@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ag502/learnyounode-node-js#readme",
   "devDependencies": {
     "prettier": "2.3.2"
+  },
+  "dependencies": {
+    "through2-map": "^3.0.0"
   }
 }
